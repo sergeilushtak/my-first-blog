@@ -27,11 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'serge.pythonanywhere.com'
-<<<<<<< HEAD
 ]
-=======
-]
->>>>>>> 81df610947b2be582bb3729d47c80a9a8716266b
 
 
 # Application definition
